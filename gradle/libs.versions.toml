@@ -1,5 +1,5 @@
 [versions]
-shadow = "8.3.9"
+shadow = "9.3.0"
 kotlin = "2.0.21"
 kotlinx = "1.8.1"
 picocli = "4.7.7"
